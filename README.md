@@ -46,9 +46,16 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2023-11-28 154202](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/eba123ee-62b8-4a37-8ec5-e566e821ba3c)
+![Screenshot 2023-11-28 154431](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/7e25c408-6225-4467-a3d2-32cdc3ae11ad)
+![Screenshot 2023-11-28 154603](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/77edab93-c073-4494-b95a-5567bbc64530)
+![Screenshot 2023-11-28 154823](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/d8fce660-e2f4-430b-9d83-e8bfdeec88c4)
+![Screenshot 2023-11-28 154848](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/b6e76767-5661-4db5-aa00-f6a523daf0ce)
+![Screenshot 2023-11-28 155006](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/3316f21e-c265-403c-a5bf-d15392d016a6)
+![Screenshot 2023-11-28 155024](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/dc8e1c2f-e798-44ca-9a8b-0cb18a880156)
 
-### Name:
-### Register Number:
+### Name: TAMIL PAVALAN
+### Register Number: 23013740
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
