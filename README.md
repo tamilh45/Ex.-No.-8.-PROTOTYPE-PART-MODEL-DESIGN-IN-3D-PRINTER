@@ -54,8 +54,8 @@
 ![Screenshot 2023-11-28 155006](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/3316f21e-c265-403c-a5bf-d15392d016a6)
 ![Screenshot 2023-11-28 155024](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/dc8e1c2f-e798-44ca-9a8b-0cb18a880156)
 
-### Name: TAMIL PAVALAN
-### Register Number: 23013740
+### Name: SIVAKUMAR R
+### Register Number: 23013501
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
