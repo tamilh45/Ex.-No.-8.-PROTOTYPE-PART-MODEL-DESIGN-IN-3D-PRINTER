@@ -46,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+
+![image](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/dfeaf38f-92c7-4230-9c62-93e5aec3dc1a)
+
 ![Screenshot 2024-01-02 151748](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/7c36cce9-60ed-4699-b0d3-981ef1ef896a)
 
 
