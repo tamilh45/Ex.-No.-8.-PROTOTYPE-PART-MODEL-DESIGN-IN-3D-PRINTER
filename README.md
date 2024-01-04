@@ -47,15 +47,13 @@
 
 ## Output:
 
-![Screenshot 2024-01-02 234558](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/84a94d92-4998-4982-8c0f-6bbc28567960)
+![Screenshot 2024-01-02 152834](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/3697bcdd-c582-4eaa-986a-37d8987cd3d0)
 
-![Screenshot 2024-01-02 234844](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/698e309e-ac54-4624-86e5-8b42d38ead71)
-
-
+![Screenshot 2024-01-02 151748](https://github.com/tamilh45/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150312761/46371430-b40c-4ab0-b97a-f529f5c0611b)
 
 
-### Name: SIVAKUMAR R
-### Register Number: 23013501
+### Name: TAMIL PAVALAN M
+### Register Number: 23013740
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
